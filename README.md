@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a MSCS Student at CU Boulder, and am particularly excited about data engineering. 
+I'm a Data PM at Amazon and an MSCS Student at CU Boulder. I'm particularly excited about data engineering, analytics, and AI/ML applications in ecommerce & retail. Prior to Amazon, I was an analytics leader at Walmart.com (via Jet.com!), and a technical PM at Minoan Experience (check them out - incredible team building really awesome experiences for STR hosts & guests). 
+
+- 🔭 I’m currently working on a pipeline to ingest & analyze real estate data becasue I want to buy a house, but the housing market is scary and data projects bring me peace. Also kicking off a project to explore ways to optimize retail operations for small businesses (like your local ski shop).
+
+- 🌱 I’m currently learning how to integrate dbt into workflows, as well as new tools outside of AWS (though AWS is great!).
+
+- 💬 Ask me about ecommerce / retail, pricing, and logistics. Alternatively, ask me about east coast skiing (or Colorado skiing too I guess), the (definitive) best breakfast burrito in the front range, or how to optimize credit card points for travel. 

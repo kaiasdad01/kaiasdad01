@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💾 Before Amazon, I was an analytics leader at @walmart (via Jet.com!) and a technical PM at @minoan. If you haven't heard of Minoan, you have to check them out. Incredible team building game-changing experiences for STR hosts & guests. Native Retail is the real deal!
 
-- 📚 I'm currently an MS Computer Science student at the University of Colorado Boulder (#skobuffs and TY Coach Prime). My undergrad was in Finance and I have an MBA from Dartmouth as well. 
+- 📚 I'm currently an MS Computer Science student at the University of Colorado Boulder. My undergrad was in Finance and I have an MBA from Dartmouth as well. 
 
 - 🔭 Outside of my day job, I’m currently working on a pipeline to ingest & analyze real estate data becasue I want to buy a house, but the housing market is scary and data projects bring me peace. Also kicking off a project to explore ways to optimize retail operations for small businesses (like your local ski shop).
 

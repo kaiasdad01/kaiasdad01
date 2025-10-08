@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 - 💬 I love to talk all things data, new tech, and AI/ML. Or, ask me about east coast skiing (or Colorado skiing too I guess), the (definitive) best breakfast burrito in the Colorado front range, or how to optimize credit card points for travel.
 
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/matthewjbdwyer/) | [**email me!**](mailto:mjbdwyer@gmail.com)
+[**Let's Connect on LinkedIn!**](https://www.linkedin.com/in/matthewjbdwyer/) | [**email me!**](mailto:mjbdwyer@gmail.com)
 

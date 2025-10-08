@@ -17,20 +17,15 @@ Here are some ideas to get you started:
 
 
 
-- 💻 I'm a senior data PM, with experience building data products & analytics platforms end to end in both enterprise and startup environments. 
+- 💻 I'm a data product & analytics leader, with 10 years of experience in both enterprise and startup environments. 
 
-- 💾 I'm currently at Amazon building with the Pricing Tech team for Amazon Shipping. Previously, I led an Analytics team at Walmart, was the first tech PM at Minoan Experience, and spent the first 3 years of my career in corporate finance at L'Oreal. 
+- 💾 I'm currently at Amazon building with the Pricing Tech team for Amazon Shipping. Previously, I led an Analytics team at Walmart, was the first tech PM at Minoan Experience, and spent the first 3 years of my career in corporate finance at L'Oreal. The common thread in every step of my career has been my focus on leveraging data & analytics to build strategy and drive successful biz outcomes. 
 
-- 📚 I've got an MBA from Dartmouth, and am currently pursuing an MS Computer Science at CU Boulder.
+- 📚 I've got an MBA from Dartmouth, and am currently pursuing an MS Computer Science at CU Boulder. I'm also an active participant in Amazon's Machine Learning University - most recently finished a course on AutoGluon.  
 
-- 🔭 Outside of my day job, I love to build. Currently working on a few cool projects like: NFL analytics & predictions platform, a better way to track and evaluate real estate listings, and a product to help people use their credit card points & airline miles more effectively. 
+- 🔭 Outside of my day job, I love to build, and learn. Currently working on a few cool projects like: NFL analytics & predictions platform and a better way to track and evaluate real estate listings.
 
-- 💬 I love to talk all things data, new tech, and AI/ML. Or, ask me about east coast skiing (or Colorado skiing too I guess), the (definitive) best breakfast burrito in the front range, or how to optimize credit card points for travel.
+- 💬 I love to talk all things data, new tech, and AI/ML. Or, ask me about east coast skiing (or Colorado skiing too I guess), the (definitive) best breakfast burrito in the Colorado front range, or how to optimize credit card points for travel.
 
-
-Currently ...
-**listening to**: Lenny's Podcast and [Crafted](https://blisterreview.com/category/podcasts/crafted-podcast)
-**reading**: Lean Product Playbook
-**watching**: Last Chance U (Netflix)
-
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/matthewjbdwyer/) | [**email me!**](mailto:mjbdwyer@gmail.com)
 

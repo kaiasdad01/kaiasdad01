@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 💻 I'm a data product & analytics leader, with 10 years of experience in both enterprise and startup environments. 
-
-- 💾 I'm currently at Amazon building with the Pricing Tech team for Amazon Shipping. Previously, I led an Analytics team at Walmart, was an early tech PM at Minoan Experience, and spent the first 3 years of my career in corporate finance at L'Oreal. The common thread in every step of my career has been a focus on leveraging data & analytics to build strategy and drive successful biz outcomes. 
+- 💻 I'm a technical product leader with 10+ years of experience across analytics, strategy, and product.
 
 - 📚 I've got an MBA from Dartmouth, and am currently pursuing an MS Computer Science at CU Boulder part-time. 
 
